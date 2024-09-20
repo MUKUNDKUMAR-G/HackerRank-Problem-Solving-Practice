@@ -26,42 +26,42 @@ Welcome to my repository of **HackerRank** solutions in **Java**! This collectio
 - **Description**: Given an array of integers, return the sum of its elements.
 - **Solution**: Summing elements of an array using basic loops.
 
-### 3. [Compare the Triplets](./CompareTheTriplets/README.md)
+### 3. [Compare the Triplets](./CompareTheTriplets)
 
 - **Description**: Compare elements of two arrays and assign points based on the comparison.
 - **Solution**: Element-wise comparison using a loop.
 
-### 4. [A Very Big Sum](./AVeryBigSum/README.md)
+### 4. [A Very Big Sum](./AVeryBigSum)
 
 - **Description**: Sum of an array of very large integers.
 - **Solution**: Handling big integers in Java and using loops.
 
-### 5. [Diagonal Difference](./DiagonalDifference/README.md)
+### 5. [Diagonal Difference](./DiagonalDifference)
 
 - **Description**: Find the absolute difference between the sums of the matrix's diagonals.
 - **Solution**: Looping through matrix elements and calculating diagonal sums.
 
-### 6. [Plus Minus](./PlusMinus/README.md)
+### 6. [Plus Minus](./PlusMinus)
 
 - **Description**: Calculate the ratios of positive, negative, and zero elements in an array.
 - **Solution**: Counting positive, negative, and zero values using loops and conditionals.
 
-### 7. [Staircase](./Staircase/README.md)
+### 7. [Staircase](./Staircase)
 
 - **Description**: Print a staircase of `n` steps with each step aligned to the right.
 - **Solution**: Using nested loops to print the required pattern.
 
-### 8. [Mini-Max Sum](./MiniMaxSum/README.md)
+### 8. [Mini-Max Sum](./MiniMaxSum)
 
 - **Description**: Find the minimum and maximum sum of four out of five integers in an array.
 - **Solution**: Sorting and calculating sums of subarrays.
 
-### 9. [Birthday Cake Candles](./BirthdayCakeCandles/README.md)
+### 9. [Birthday Cake Candles](./BirthdayCakeCandles)
 
 - **Description**: Find the tallest candles that can be blown out on a birthday cake.
 - **Solution**: Finding the maximum value in an array and counting its occurrences.
 
-### 10. [Time Conversion](./TimeConversion/README.md)
+### 10. [Time Conversion](./TimeConversion)
 
 - **Description**: Convert time from 12-hour AM/PM format to 24-hour format.
 - **Solution**: Handling string manipulations and conditional statements.
