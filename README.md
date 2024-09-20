@@ -16,12 +16,12 @@ Welcome to my repository of **HackerRank** solutions in **Java**! This collectio
 
 ## 📝 Problems Solved
 
-### 1. [Solve Me First](./SolveMeFirst/README.md)
+### 1. [Solve Me First](./SolveMeFirst)
 
 - **Description**: A simple problem to get started with basic arithmetic operations.
 - **Solution**: Addition of two numbers provided as input.
 
-### 2. [Simple Array Sum](./SimpleArraySum/README.md)
+### 2. [Simple Array Sum](./SimpleArraySum)
 
 - **Description**: Given an array of integers, return the sum of its elements.
 - **Solution**: Summing elements of an array using basic loops.
