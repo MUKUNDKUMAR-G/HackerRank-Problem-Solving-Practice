@@ -40,6 +40,8 @@ Welcome to my repository of **HackerRank** solutions in **Java**! This collectio
 
 ### 12. [Apple and Orange](./AppleandOrange/)
 
+### 13. [Kangaroo Jump](./KangarooJump/)
+
 ## 🚀 Getting Started
 
 To run the solutions locally:
