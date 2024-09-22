@@ -42,6 +42,8 @@ Welcome to my repository of **HackerRank** solutions in **Java**! This collectio
 
 ### 13. [Kangaroo Jump](./KangarooJump/)
 
+### 14. [Between Two Sets](./BetweenTwoSets/)
+
 ## 🚀 Getting Started
 
 To run the solutions locally:

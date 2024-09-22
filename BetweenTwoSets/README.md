@@ -95,7 +95,7 @@ To solve this problem, we follow the below steps:
    - Iterate through the array and calculate the GCD of all elements using the Euclidean algorithm:
 
    ```java
-   GCD(a, b) = {GCD}(b, a \% b)
+   GCD(a, b) = {GCD}(b, a % b)
 
    ```
 
