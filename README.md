@@ -47,7 +47,7 @@ To run the solutions locally:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/HackerRank-Java-Problem-Solving.git
+   git clone https://github.com/MUKUNDKUMAR-G/HackerRank-Problem-Solving-Practice.git
    ```
 
 2. Navigate to the folder containing the problem you want to run:
