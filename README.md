@@ -44,6 +44,14 @@ Welcome to my repository of **HackerRank** solutions in **Java**! This collectio
 
 ### 14. [Between Two Sets](./BetweenTwoSets/)
 
+### 15. [Breaking the Records](./BreakingtheRecords/)
+
+### 16. [Birthday Chocolate](./BirthdayChocolate/)
+
+### 17. [Divisible Sum Pairs](./DivisibleSumPairs/)
+
+### 18. [Mirgratory Birds](./MigratoryBirds/)
+
 ## 🚀 Getting Started
 
 To run the solutions locally:
