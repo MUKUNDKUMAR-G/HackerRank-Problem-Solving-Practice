@@ -52,6 +52,8 @@ Welcome to my repository of **HackerRank** solutions in **Java**! This collectio
 
 ### 18. [Mirgratory Birds](./MigratoryBirds/)
 
+### 19. [Day Of The Programmer](./DayOfTheProgrammer/)
+
 ## 🚀 Getting Started
 
 To run the solutions locally:
