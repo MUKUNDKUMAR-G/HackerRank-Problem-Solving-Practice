@@ -54,6 +54,8 @@ Welcome to my repository of **HackerRank** solutions in **Java**! This collectio
 
 ### 19. [Day Of The Programmer](./DayOfTheProgrammer/)
 
+### 20. [Bill Division](./BillDivision/)
+
 ## 🚀 Getting Started
 
 To run the solutions locally:
