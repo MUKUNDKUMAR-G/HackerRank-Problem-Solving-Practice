@@ -58,6 +58,8 @@ Welcome to my repository of **HackerRank** solutions in **Java**! This collectio
 
 ### 21. [Sock Merchant](./SockMerchant/)
 
+### 22. [Drawing Book](./DrawingBook/)
+
 ## 🚀 Getting Started
 
 To run the solutions locally:
