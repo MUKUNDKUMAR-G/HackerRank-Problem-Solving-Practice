@@ -56,6 +56,8 @@ Welcome to my repository of **HackerRank** solutions in **Java**! This collectio
 
 ### 20. [Bill Division](./BillDivision/)
 
+### 21. [Sock Merchant](./SockMerchant/)
+
 ## 🚀 Getting Started
 
 To run the solutions locally:
